@@ -7,3 +7,4 @@
 ## Reference
 - [Video](https://www.youtube.com/watch?v=zXxdbtamoa4)
 - [Github Repo](https://github.com/noahgift/awslambda)
+- [Web Link](https://aws.amazon.com/cn/blogs/china/lambda-serverless/)
